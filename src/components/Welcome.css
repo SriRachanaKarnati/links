@@ -1,0 +1,44 @@
+.wel_side{
+    width:18%;
+    float:left;
+    position : fixed;
+   
+}
+.wel_banner{
+    font-size: xx-large;
+    background-color: black;
+    padding:0px;
+    height: 200px;
+    color: whitesmoke;
+    text-align: center;
+}
+.wel-mid{
+    padding:0px;
+    width:82%;
+    float:right;
+    text-align: center;
+}
+.wel-main{
+    background-color:white;
+}
+.inbox{
+    
+        background-color: black;
+        max-width: 200px;
+        height:100px;
+        padding: 25px;
+        margin: 20px;
+       color: white;
+       text-align: left;
+       
+       
+      
+}
+.bxcntr{
+    display:flex;
+    max-width:1200px;
+    margin:0px auto;
+    flex-wrap:wrap;
+    text-align:center;
+    justify-content: left;
+}
